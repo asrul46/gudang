@@ -1,0 +1,2 @@
+# gudang
+CRUD data gudang
